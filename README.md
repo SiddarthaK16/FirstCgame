@@ -12,5 +12,7 @@
 - **Custom logic** for number checking.
 - **Guess counter** to track attempts.
 - **Helpful hints**: tells you if your guess is higher or lower.
+
+  **FEEL FREE TO CORRECT ME OR IMPROVE MY CODE AND CONTRIBUTE IN MY GROWTH AND LEARNING , THANK YOU!!**
   
 
